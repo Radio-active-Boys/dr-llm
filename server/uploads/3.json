@@ -1,0 +1,254 @@
+{
+  "_id": {
+    "$oid": "695ce5ad95378e0027d905c7"
+  },
+  "case_id": "CASE0043",
+  "patient_id": "PAT0046",
+  "comments": "",
+  "urls": [],
+  "examination": {
+    "templetes": [
+      {
+        "templeteid": "TEMP0001",
+        "templetename": "Full Eye Examination",
+        "sections": [
+          {
+            "sectionname": "Right Eye (R/OD)",
+            "category": [
+              {
+                "categoryname": "External Examination",
+                "forms": [
+                  {
+                    "formid": "APPEARANCE_FORM",
+                    "name": "Ocular Motility",
+                    "data": {
+                      "appearance_symptoms": []
+                    }
+                  }
+                ]
+              },
+              {
+                "categoryname": "Slit Lamp Examination",
+                "forms": [
+                  {
+                    "formid": "APPENDAGES_FORM",
+                    "name": "Eye Lids",
+                    "data": {
+                      "appendages_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "CONJUNCTIVA_FORM",
+                    "name": "Conjunctiva",
+                    "data": {
+                      "conjunctiva_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "SCLERA_FORM",
+                    "name": "Sclera",
+                    "data": {
+                      "sclera_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "CORNEA_FORM",
+                    "name": "Cornea",
+                    "data": {
+                      "cornea_conditions": [],
+                      "size": "Normal"
+                    }
+                  },
+                  {
+                    "formid": "ANTERIOR_CHAMBER_FORM",
+                    "name": "Anterior Chamber (AC)",
+                    "data": {
+                      "ac_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "IRIS_FORM",
+                    "name": "Iris",
+                    "data": {
+                      "iris_color": "Brown",
+                      "iris_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "PUPIL_FORM",
+                    "name": "Pupil",
+                    "data": {
+                      "pupil_shape": "Round",
+                      "pupil_size": "",
+                      "pupil_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "LENS_FORM",
+                    "name": "Lens",
+                    "data": {
+                      "lens_status": "Clear",
+                      "lens_opacity_type": []
+                    }
+                  }
+                ]
+              },
+              {
+                "categoryname": "Applanation Tonometry",
+                "forms": [
+                  {
+                    "formid": "IOP_FORM",
+                    "name": "Intraocular Pressure (IOP)",
+                    "data": {
+                      "iop_value": "",
+                      "iop_time": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "categoryname": "Fundus Examination",
+                "forms": [
+                  {
+                    "formid": "FUNDUS_FORM",
+                    "name": "Fundus",
+                    "data": {
+                      "media": [],
+                      "optic_disc_size": [],
+                      "cup_disc_ratio": [],
+                      "optic_disc": [],
+                      "macula": [],
+                      "vessels": [],
+                      "periphery": []
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "sectionname": "Left Eye (L/OS)",
+            "category": [
+              {
+                "categoryname": "External Examination",
+                "forms": [
+                  {
+                    "formid": "APPEARANCE_FORM",
+                    "name": "Ocular Motility",
+                    "data": {
+                      "appearance_symptoms": []
+                    }
+                  }
+                ]
+              },
+              {
+                "categoryname": "Slit Lamp Examination",
+                "forms": [
+                  {
+                    "formid": "APPENDAGES_FORM",
+                    "name": "Eye Lids",
+                    "data": {
+                      "appendages_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "CONJUNCTIVA_FORM",
+                    "name": "Conjunctiva",
+                    "data": {
+                      "conjunctiva_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "SCLERA_FORM",
+                    "name": "Sclera",
+                    "data": {
+                      "sclera_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "CORNEA_FORM",
+                    "name": "Cornea",
+                    "data": {
+                      "cornea_conditions": [],
+                      "size": "Normal"
+                    }
+                  },
+                  {
+                    "formid": "ANTERIOR_CHAMBER_FORM",
+                    "name": "Anterior Chamber (AC)",
+                    "data": {
+                      "ac_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "IRIS_FORM",
+                    "name": "Iris",
+                    "data": {
+                      "iris_color": "Brown",
+                      "iris_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "PUPIL_FORM",
+                    "name": "Pupil",
+                    "data": {
+                      "pupil_shape": "Round",
+                      "pupil_size": "",
+                      "pupil_conditions": []
+                    }
+                  },
+                  {
+                    "formid": "LENS_FORM",
+                    "name": "Lens",
+                    "data": {
+                      "lens_status": "Clear",
+                      "lens_opacity_type": []
+                    }
+                  }
+                ]
+              },
+              {
+                "categoryname": "Applanation Tonometry",
+                "forms": [
+                  {
+                    "formid": "IOP_FORM",
+                    "name": "Intraocular Pressure (IOP)",
+                    "data": {
+                      "iop_value": "",
+                      "iop_time": "",
+                      "comments": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "categoryname": "Fundus Examination",
+                "forms": [
+                  {
+                    "formid": "FUNDUS_FORM",
+                    "name": "Fundus",
+                    "data": {
+                      "media": [],
+                      "optic_disc_size": [],
+                      "cup_disc_ratio": [],
+                      "optic_disc": [],
+                      "macula": [],
+                      "vessels": [],
+                      "periphery": []
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": {
+    "$date": "2026-01-06T10:36:29.436Z"
+  },
+  "updated_at": {
+    "$date": "2026-01-06T10:36:29.436Z"
+  }
+}

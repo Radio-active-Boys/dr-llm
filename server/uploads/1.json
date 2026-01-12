@@ -1,0 +1,263 @@
+{
+  "_id": {
+    "$oid": "695942e795378e0027d905b6"
+  },
+  "case_id": "CASE0038",
+  "patient_id": "PAT0006",
+  "comments": "",
+  "urls": [
+    "https://ayushdata01.s3.amazonaws.com/09438ba7370a4a7b9458beb6a9985aef_R_eye_sketch.png"
+  ],
+  "examination": {
+    "templetes": [
+      {
+        "templeteid": "TEMP0001",
+        "templetename": "Full Eye Examination",
+        "sections": [
+          {
+            "sectionname": "Right Eye (R/OD)",
+            "forms": [
+              {
+                "formid": "APPEARANCE_FORM",
+                "name": "Appearance",
+                "data": {
+                  "appearance_symptoms": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "INJURY_FORM",
+                "name": "Injury",
+                "data": {
+                  "injury_types": [],
+                  "severity": "Mild",
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "APPENDAGES_FORM",
+                "name": "Appendages",
+                "data": {
+                  "appendages_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "CONJUNCTIVA_FORM",
+                "name": "Conjunctiva",
+                "data": {
+                  "conjunctiva_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "SCLERA_FORM",
+                "name": "Sclera",
+                "data": {
+                  "sclera_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "CORNEA_FORM",
+                "name": "Cornea",
+                "data": {
+                  "cornea_conditions": [],
+                  "size": "Normal",
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "ANTERIOR_CHAMBER_FORM",
+                "name": "Anterior Chamber (AC)",
+                "data": {
+                  "ac_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "PUPIL_FORM",
+                "name": "Pupil",
+                "data": {
+                  "pupil_shape": "Round",
+                  "pupil_size": "",
+                  "pupil_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "IRIS_FORM",
+                "name": "Iris",
+                "data": {
+                  "iris_color": "Brown",
+                  "iris_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "LENS_FORM",
+                "name": "Lens",
+                "data": {
+                  "lens_status": "Clear",
+                  "lens_opacity_type": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "IOP_FORM",
+                "name": "Intraocular Pressure (IOP)",
+                "data": {
+                  "iop_value": "",
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "GONIOSCOPY_FORM",
+                "name": "Gonioscopy",
+                "data": {
+                  "gonioscopy_findings": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "FUNDUS_FORM",
+                "name": "Fundus",
+                "data": {
+                  "optic_disc": [],
+                  "macula": [],
+                  "vessels": [],
+                  "periphery": [],
+                  "comments": ""
+                }
+              }
+            ]
+          },
+          {
+            "sectionname": "Left Eye (L/OS)",
+            "forms": [
+              {
+                "formid": "APPEARANCE_FORM",
+                "name": "Appearance",
+                "data": {
+                  "appearance_symptoms": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "INJURY_FORM",
+                "name": "Injury",
+                "data": {
+                  "injury_types": [],
+                  "severity": "Mild",
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "APPENDAGES_FORM",
+                "name": "Appendages",
+                "data": {
+                  "appendages_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "CONJUNCTIVA_FORM",
+                "name": "Conjunctiva",
+                "data": {
+                  "conjunctiva_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "SCLERA_FORM",
+                "name": "Sclera",
+                "data": {
+                  "sclera_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "CORNEA_FORM",
+                "name": "Cornea",
+                "data": {
+                  "cornea_conditions": [],
+                  "size": "Normal",
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "ANTERIOR_CHAMBER_FORM",
+                "name": "Anterior Chamber (AC)",
+                "data": {
+                  "ac_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "PUPIL_FORM",
+                "name": "Pupil",
+                "data": {
+                  "pupil_shape": "Round",
+                  "pupil_size": "",
+                  "pupil_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "IRIS_FORM",
+                "name": "Iris",
+                "data": {
+                  "iris_color": "Brown",
+                  "iris_conditions": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "LENS_FORM",
+                "name": "Lens",
+                "data": {
+                  "lens_status": "Clear",
+                  "lens_opacity_type": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "IOP_FORM",
+                "name": "Intraocular Pressure (IOP)",
+                "data": {
+                  "iop_value": "",
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "GONIOSCOPY_FORM",
+                "name": "Gonioscopy",
+                "data": {
+                  "gonioscopy_findings": [],
+                  "comments": ""
+                }
+              },
+              {
+                "formid": "FUNDUS_FORM",
+                "name": "Fundus",
+                "data": {
+                  "optic_disc": [],
+                  "macula": [],
+                  "vessels": [],
+                  "periphery": [],
+                  "comments": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": {
+    "$date": "2026-01-03T16:25:11.268Z"
+  },
+  "updated_at": {
+    "$date": "2026-01-03T16:25:11.268Z"
+  }
+}
