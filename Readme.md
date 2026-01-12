@@ -243,15 +243,16 @@ server/outputs/
 ## 🧠 Model Behavior (Important)
 
 The model is explicitly instructed to:
-```
+````
 ✔ Treat empty fields as **NOT DOCUMENTED**
 ✔ Never assume normal findings
 ✔ Never invent measurements
 ✔ Never correct EMR data
 ✔ Separate findings vs limitations
 ✔ Think like a real ophthalmologist
+````
 This avoids unsafe hallucinations.
-```
+
 ---
 
 ## ⚠️ Clinical Disclaimer
