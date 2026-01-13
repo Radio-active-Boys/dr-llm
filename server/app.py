@@ -9,8 +9,8 @@ from reportlab.lib.styles import getSampleStyleSheet
 
 app = Flask(__name__)
 
-OLLAMA_URL = "http://localhost:11434/v1/chat/completions"
-MODEL_NAME = "llama3.1"      # Stable on GTX 1650 (4GB VRAM)
+OLLAMA_URL = "http://10.10.78.175:11434/v1/chat/completions"
+MODEL_NAME = "dolphin3.0-llama3.1-8b"      # Stable on GTX 1650 (4GB VRAM)
 API_KEY = "sk-local-key"
 
 OUTPUT_DIR = "outputs"

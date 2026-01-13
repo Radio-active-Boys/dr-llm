@@ -1,0 +1,241 @@
+{
+  "_id": {
+    "$oid": "69667a9e866bc6978b6e8edc"
+  },
+  "case_id": "CASE0002",
+  "patient_id": "PAT0003",
+  "comments": "",
+  "urls": [],
+  "examination": {
+    "general": "Normal",
+    "oneeyed": "No",
+    "squint": "No",
+    "comments": "",
+    "sections": [
+      {
+        "section_name": "Right Eye (R/OD)",
+        "section_index": 0,
+        "forms": [
+          {
+            "form_id": "APPEARANCE_FORM",
+            "data": {
+              "appearance_symptoms": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "INJURY_FORM",
+            "data": {
+              "injury_types": [],
+              "severity": "Mild",
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "APPENDAGES_FORM",
+            "data": {
+              "appendages_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "CONJUNCTIVA_FORM",
+            "data": {
+              "conjunctiva_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "SCLERA_FORM",
+            "data": {
+              "sclera_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "CORNEA_FORM",
+            "data": {
+              "cornea_conditions": [
+                "Opacity"
+              ],
+              "size": "Normal",
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "ANTERIOR_CHAMBER_FORM",
+            "data": {
+              "ac_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "PUPIL_FORM",
+            "data": {
+              "pupil_shape": "Round",
+              "pupil_size": "",
+              "pupil_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "IRIS_FORM",
+            "data": {
+              "iris_color": "Brown",
+              "iris_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "LENS_FORM",
+            "data": {
+              "lens_status": "Cataract",
+              "lens_opacity_type": [
+                "Nuclear",
+                "NS-1 grade"
+              ],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "IOP_FORM",
+            "data": {
+              "iop_value": "",
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "GONIOSCOPY_FORM",
+            "data": {
+              "gonioscopy_findings": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "FUNDUS_FORM",
+            "data": {
+              "optic_disc": [],
+              "macula": [],
+              "vessels": [],
+              "periphery": [],
+              "comments": ""
+            }
+          }
+        ]
+      },
+      {
+        "section_name": "Left Eye (L/OS)",
+        "section_index": 1,
+        "forms": [
+          {
+            "form_id": "APPEARANCE_FORM",
+            "data": {
+              "appearance_symptoms": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "INJURY_FORM",
+            "data": {
+              "injury_types": [],
+              "severity": "Mild",
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "APPENDAGES_FORM",
+            "data": {
+              "appendages_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "CONJUNCTIVA_FORM",
+            "data": {
+              "conjunctiva_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "SCLERA_FORM",
+            "data": {
+              "sclera_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "CORNEA_FORM",
+            "data": {
+              "cornea_conditions": [],
+              "size": "Normal",
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "ANTERIOR_CHAMBER_FORM",
+            "data": {
+              "ac_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "PUPIL_FORM",
+            "data": {
+              "pupil_shape": "Round",
+              "pupil_size": "",
+              "pupil_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "IRIS_FORM",
+            "data": {
+              "iris_color": "Brown",
+              "iris_conditions": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "LENS_FORM",
+            "data": {
+              "lens_status": "Clear",
+              "lens_opacity_type": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "IOP_FORM",
+            "data": {
+              "iop_value": "",
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "GONIOSCOPY_FORM",
+            "data": {
+              "gonioscopy_findings": [],
+              "comments": ""
+            }
+          },
+          {
+            "form_id": "FUNDUS_FORM",
+            "data": {
+              "optic_disc": [],
+              "macula": [],
+              "vessels": [],
+              "periphery": [],
+              "comments": ""
+            }
+          }
+        ]
+      }
+    ],
+    "sketches": {}
+  },
+  "created_at": {
+    "$date": "2026-01-13T17:02:22.726Z"
+  },
+  "updated_at": {
+    "$date": "2026-01-13T17:02:22.726Z"
+  }
+}
